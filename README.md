@@ -1,5 +1,5 @@
 # AnalogClock
-Simple swift class to display an analog clock face.
+Simple swift 3 class to display an analog clock face.
 
 Copy Clock.swift into your project and add it as a ustom view in the interface builder.
 
